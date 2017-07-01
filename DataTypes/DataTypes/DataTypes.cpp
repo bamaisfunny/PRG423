@@ -4,6 +4,7 @@
 #include<iostream>
 
 
+
 int main()
 {
 	std::cout << "int 5!" << std::endl;
